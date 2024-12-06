@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|d:\\project\\webbanhangonline\\webbanhangonline\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|solutionrelative:areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|D:\\project\\WebBanHangOnline\\WebBanHangOnline\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|solutionrelative:areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|D:\\project\\WebBanHangOnline\\WebBanHangOnline\\areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|solutionrelative:areas\\admin\\views\\news\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|D:\\project\\WebBanHangOnline\\WebBanHangOnline\\areas\\admin\\views\\news\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|solutionrelative:areas\\admin\\views\\news\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|D:\\project\\WebBanHangOnline\\WebBanHangOnline\\models\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|solutionrelative:models\\ef\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|D:\\project\\WebBanHangOnline\\WebBanHangOnline\\models\\ef\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|solutionrelative:models\\ef\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|D:\\project\\WebBanHangOnline\\WebBanHangOnline\\models\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|solutionrelative:models\\ef\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|D:\\project\\WebBanHangOnline\\WebBanHangOnline\\models\\ef\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|solutionrelative:models\\ef\\posts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|D:\\project\\WebBanHangOnline\\WebBanHangOnline\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|D:\\project\\WebBanHangOnline\\WebBanHangOnline\\content\\ckeditor\\ckeditor\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{9964B771-E15D-4323-83F8-FF40D9676815}|WebBanHangOnline.csproj|solutionrelative:content\\ckeditor\\ckeditor\\config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\EF\\Product.cs",
+              "ToolTip": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Product.cs",
+              "RelativeToolTip": "Models\\EF\\Product.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAADwvx8AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:10:48.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Posts.cs",
+              "DocumentMoniker": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Posts.cs",
+              "RelativeDocumentMoniker": "Models\\EF\\Posts.cs",
+              "ToolTip": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Posts.cs",
+              "RelativeToolTip": "Models\\EF\\Posts.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswBsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:10:21.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "ToolTip": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\News\\Edit.cshtml",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAwwGsAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-06T12:47:09.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAAAIkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T16:30:11.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\News.cs",
+              "RelativeDocumentMoniker": "Models\\EF\\News.cs",
+              "ToolTip": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\News.cs",
+              "RelativeToolTip": "Models\\EF\\News.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:27:28.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAuwGMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T16:20:45.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\News\\Add.cshtml",
+              "ToolTip": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\News\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\News\\Add.cshtml",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T15:14:22.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\EF\\Category.cs",
+              "ToolTip": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Models\\EF\\Category.cs",
+              "RelativeToolTip": "Models\\EF\\Category.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T13:11:09.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFQBAAAAAAAAAAAAAGUBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-05T15:59:52.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "config.js",
+              "DocumentMoniker": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Content\\ckeditor\\ckeditor\\config.js",
+              "RelativeDocumentMoniker": "Content\\ckeditor\\ckeditor\\config.js",
+              "ToolTip": "D:\\project\\WebBanHangOnline\\WebBanHangOnline\\Content\\ckeditor\\ckeditor\\config.js",
+              "RelativeToolTip": "Content\\ckeditor\\ckeditor\\config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-05T15:50:55.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
