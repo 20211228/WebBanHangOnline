@@ -6,6 +6,7 @@ using System.Web.Management;
 using System.Web.Mvc;
 using WebBanHangOnline.Models;
 using WebBanHangOnline.Models.EF;
+using PagedList;
 
 namespace WebBanHangOnline.Areas.Admin.Controllers
 {
@@ -14,9 +15,22 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
         private ApplicationDbContext db = new ApplicationDbContext();
 
         // GET: Admin/News
-        public ActionResult Index()
+        public ActionResult Index(string Searchtext,int? page)
         {
-            var items = db.News.OrderByDescending(x => x.Id).ToList();
+            var pageSize = 10;
+            if(page == null)
+            {
+                page = 1;
+            }
+            IEnumerable<News> items = db.News.OrderByDescending(x => x.Id);
+            if (!string.IsNullOrEmpty(Searchtext))
+            {
+                items = items.Where(x=>x.Alias.Contains(Searchtext)||x.Title.Contains(Searchtext)).ToList();
+            }
+            var pageIndex = page.HasValue? Convert.ToInt32(page):1;
+            items = items.ToPagedList(pageIndex, pageSize);
+            ViewBag.PageSize = pageSize;
+            ViewBag.Page = page;
             return View(items);
         }
 
@@ -101,6 +115,25 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
             return Json(new { success = false });
         }
 
+        [HttpPost]
+        public ActionResult DeleteAll(string ids)
+        {
+            if (!string.IsNullOrEmpty(ids))
+            {
+                var items = ids.Split(',');
+                if(items!=null && items.Any())
+                {
+                    foreach(var item in items)
+                    {
+                        var obj = db.News.Find(Convert.ToInt32(item));
+                        db.News.Remove(obj);
+                        db.SaveChanges();
+                    }
+                }
+                return Json(new { success = true });
+            }
+            return Json(new { success = false });
+        }
 
 
         

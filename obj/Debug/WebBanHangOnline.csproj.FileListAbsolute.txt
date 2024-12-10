@@ -228,3 +228,8 @@ D:\project\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.csproj.C
 D:\project\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHa.7E290493.Up2Date
 D:\project\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.dll
 D:\project\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.pdb
+D:\project\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.ChangeLength.resources
+D:\project\WebBanHangOnline\WebBanHangOnline\bin\PagedList.dll
+D:\project\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.dll
+D:\project\WebBanHangOnline\WebBanHangOnline\bin\PagedList.xml
+D:\project\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.xml
