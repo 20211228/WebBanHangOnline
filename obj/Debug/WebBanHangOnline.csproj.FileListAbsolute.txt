@@ -233,3 +233,4 @@ D:\project\WebBanHangOnline\WebBanHangOnline\bin\PagedList.dll
 D:\project\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.dll
 D:\project\WebBanHangOnline\WebBanHangOnline\bin\PagedList.xml
 D:\project\WebBanHangOnline\WebBanHangOnline\bin\PagedList.Mvc.xml
+D:\project\WebBanHangOnline\WebBanHangOnline\obj\Debug\WebBanHangOnline.Migrations.UpdateProductCategory.resources
