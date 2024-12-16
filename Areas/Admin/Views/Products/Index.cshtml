@@ -88,17 +88,17 @@
                             <tr id="trow_@item.Id">
                                 <td><input type="checkbox" class="cbkItem" value="@item.Id" /></td>
                                 <td>@i</td>
-                                <td><img src="@item.Image" width="50" /></td>
+                                <td><img class="imgproduct" src="@item.ProductImage.FirstOrDefault(x=>x.IsDefault).Image" width="50" /></td>
                                 <td>@item.Title</td>
                                 <td>@item.ProductCategory.Title</td>
                                 <td>@item.Quantity</td>
                                 <td>@item.Price</td>
-                                <td>@item.CreatedDate.ToString("dd/mm/yyyy")</td>
+                                <td>@item.CreatedDate.ToString("dd/MM/yyyy")</td>
                                 <td class="text-center">
                                     <a href='#' data-id="@item.Id" class="btnActive"> @Html.Raw(strCheck)</a>
                                 </td>
                                 <td>
-                                    <a href="/admin/news/edit/@item.Id" class="btn btn-sm btn-primary">Sửa</a>
+                                    <a href="/admin/Products/edit/@item.Id" class="btn btn-sm btn-primary">Sửa</a>
                                     <a href="#" data-id="@item.Id" class="btn btn-sm btn-danger btnDelete">Xoá</a>
                                 </td>
                             </tr>
@@ -161,7 +161,7 @@
                     var conf = confirm('bạn có muốn xoá các bản ghi này không');
                     if (conf === true) {
                         $.ajax({
-                            url: '/admin/news/deleteAll',
+                            url: '/admin/Products/deleteAll',
                             type: 'POST',
                             data: { ids: str },
                             success: function (rs) {
@@ -196,7 +196,7 @@
                 var conf = confirm("bạn có muốn xoá bản ghi không");
                 if (conf === true) {
                     $.ajax({
-                        url: '/admin/news/delete',
+                        url: '/admin/Products/delete',
                         type: 'POST',
                         data: { id: id },
                         success: function (rs) {

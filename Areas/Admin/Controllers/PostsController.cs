@@ -77,6 +77,8 @@ namespace WebBanHangOnline.Areas.Admin.Controllers
             }
             return Json(new { success = false });
         }
+
+
         [HttpPost]
         //hihi 
         public ActionResult IsActive(int id)
